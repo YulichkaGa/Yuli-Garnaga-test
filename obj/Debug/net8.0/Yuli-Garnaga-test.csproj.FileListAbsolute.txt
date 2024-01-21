@@ -272,3 +272,4 @@ C:\Users\Yuli\Desktop\Pro\Yuli-Garnaga-test\obj\Debug\net8.0\refint\Yuli-Garnaga
 C:\Users\Yuli\Desktop\Pro\Yuli-Garnaga-test\obj\Debug\net8.0\Yuli-Garnaga-test.pdb
 C:\Users\Yuli\Desktop\Pro\Yuli-Garnaga-test\obj\Debug\net8.0\Yuli-Garnaga-test.genruntimeconfig.cache
 C:\Users\Yuli\Desktop\Pro\Yuli-Garnaga-test\obj\Debug\net8.0\ref\Yuli-Garnaga-test.dll
+C:\Users\Yuli\Desktop\Pro\Yuli-Garnaga-test\obj\Debug\net8.0\Yuli-Garnaga-test.sourcelink.json
