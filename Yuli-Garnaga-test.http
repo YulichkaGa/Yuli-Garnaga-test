@@ -1,0 +1,6 @@
+@Yuli_Garnaga_test_HostAddress = http://localhost:5075
+
+GET {{Yuli_Garnaga_test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
